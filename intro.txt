@@ -1,2 +1,3 @@
-je révise git aujourd'hui
+Version modifiée sur MON ORDINATEUR
 Git commence à devenir plus clair
+Modification faite depuis Github
