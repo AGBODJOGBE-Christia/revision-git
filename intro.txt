@@ -1,2 +1,2 @@
-je révise git aujourd'hui
+Version modifiée sur GITHUB
 Git commence à devenir plus clair
