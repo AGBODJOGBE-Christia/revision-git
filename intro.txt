@@ -1,1 +1,2 @@
 je révise git aujourd'hui
+Git commence à devenir plus clair
